@@ -8,7 +8,7 @@ Analista BI & Soporte Junior · Datos · Sistemas
 
 ## Perfil profesional
 
-Egresada del área informática con orientación a **Business Intelligence, análisis de datos y soporte de sistemas**.  
+Títulada del área informática con orientación a **Desarrollo web, Business Intelligence, análisis de datos y soporte de sistemas**.  
 Experiencia en apoyo a procesos operativos mediante **automatización, validación de información, consultas SQL y visualización de datos**, colaborando con distintas áreas para la toma de decisiones y continuidad operacional.
 
 Perfil junior con base técnica sólida, enfoque analítico y capacidad de adaptación a entornos productivos.
