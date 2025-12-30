@@ -78,6 +78,6 @@ Desarrollo de dashboards orientados a seguimiento y análisis de información pa
 
 ## Contacto
 
-- LinkedIn: *(agrega tu enlace aquí)*  
-- Email: *(agrega tu correo profesional aquí)*
+- LinkedIn: www.linkedin.com/in/almendra-pavez-briones-375026251
+- Email: alme.pavez28@gmail.com
 
