@@ -67,15 +67,6 @@ Desarrollo de dashboards orientados a seguimiento y análisis de información pa
 
 ---
 
-## Actualmente fortaleciendo
-
-- Optimización de consultas SQL  
-- Mejores prácticas en Business Intelligence  
-- Arquitectura básica y uso de servicios en GCP  
-- Automatización de procesos de datos  
-
----
-
 ## Contacto
 
 - LinkedIn: www.linkedin.com/in/almendra-pavez-briones-375026251
