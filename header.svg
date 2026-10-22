@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7F7FD5"/><stop offset="50%" stop-color="#86A8E7"/><stop offset="100%" stop-color="#91EAE4"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0 0H1200V160C1050 205 900 130 750 160C600 190 450 215 300 175C180 145 80 165 0 185Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="
+      M0 0H1200V160C1050 205 900 130 750 160C600 190 450 215 300 175C180 145 80 165 0 185Z;
+      M0 0H1200V175C1050 145 900 195 750 170C600 145 450 160 300 190C180 210 80 170 0 165Z;
+      M0 0H1200V160C1050 205 900 130 750 160C600 190 450 215 300 175C180 145 80 165 0 185Z"/>
+  </path>
+  <text x="600" y="82" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Almendra Pavez Briones</text>
+  <text x="600" y="122" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#ffffff" opacity="0.92">BI Analyst · IT Support · Cloud &amp; Automation</text>
+</svg>
