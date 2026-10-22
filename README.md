@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=170&section=header&text=Almendra%20Pavez%20Briones&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=BI%20Analyst%20%C2%B7%20IT%20Support%20%C2%B7%20Cloud%20%26%20Automation&descSize=16&descAlignY=58" width="100%"/>
+<img src="./header.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=900&color=86A8E7&center=true&vCenter=true&width=540&lines=Ingeniera+en+Inform%C3%A1tica+%C2%B7+Duoc+UC;Autodidacta+%C2%B7+Aut%C3%B3noma+%C2%B7+Adaptable;Si+no+lo+s%C3%A9%2C+lo+aprendo+y+lo+automatizo+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3200&pause=900&color=86A8E7&center=true&vCenter=true&width=540&lines=Ingeniera+en+Inform%C3%A1tica+%C2%B7+Duoc+UC;Autodidacta+%C2%B7+Aut%C3%B3noma+%C2%B7+Adaptable" alt="Typing SVG" />
 
 ·̩͙ ₊ ᨦ ♡ ᨩ ໋₊ ·̩͙
 
@@ -10,8 +10,8 @@
 
 ### 𐦍 sobre mí
 
-Ingeniera en Informática con base en desarrollo web y móvil, hoy en **Sistemas & Soporte de Broom Group** como **Analista BI y Soporte TI**, apoyando operaciones en **Chile 🇨🇱 y Ecuador 🇪🇨**.
-Mi día a día mezcla datos, cloud, redes, sistemas web y automatización — y gran parte lo aprendí **haciéndolo**.
+Ingeniera en Informática con base en desarrollo web y móvil, hoy en **Sistemas & Soporte de Broom Group** como **Analista BI y Soporte TI**, apoyando operaciones en **LATAM** 🌎 (Chile, Ecuador, Bolivia, Colombia y más).
+Mi día a día mezcla datos, cloud, redes, sistemas web y automatización.
 
 - 🧠 **Entiendo rápido** sistemas que no construí y los hago funcionar
 - 🔁 **Adaptable**: un servidor caído, un dashboard, un script o un proveedor, lo que toque
@@ -22,12 +22,12 @@ Mi día a día mezcla datos, cloud, redes, sistemas web y automatización — y 
 
 | | Área | Qué hago |
 |:-:|---|---|
-| 📊 | **BI & datos** | Dashboards y reportes, consultas SQL, validación y calidad de datos para decisiones internas |
 | ⚙️ | **Automatización** | Apps Script sobre Google Sheets (ticketera TI, inventarios, control de acceso, alertas por correo) y Python (XML, envíos automáticos) |
 | ☁️ | **Google Cloud** | Administro servidores y proyectos GCP: migraciones, Cloud Storage, conectividad y optimización de costos |
 | 🌐 | **Sistemas web** | Migración, auditoría de seguridad y nuevas funciones en apps PHP; reconstrucción de sistemas en React + Node |
 | 🖥️ | **Endpoints** | Herramientas PowerShell para diagnóstico/mantención de PCs y setup estandarizado de notebooks |
 | 📡 | **Redes** | Soporte multi-oficina: DNS/DHCP, WiFi, firewall, enlaces de internet y Starlink |
+| 📊 | **BI & datos** | Dashboards y reportes, consultas SQL, validación y calidad de datos para decisiones internas |
 | 🤝 | **Evaluación técnica** | Reviso propuestas de proveedores (WMS, monitoreo, ciberseguridad, telecom) y apoyo el presupuesto TI |
 
 ### ⋆ stack
@@ -60,10 +60,7 @@ Mi día a día mezcla datos, cloud, redes, sistemas web y automatización — y 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=almepavez&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=7F7FD5&icon_color=86A8E7&text_color=888888" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almepavez&layout=compact&hide_border=true&bg_color=00000000&title_color=7F7FD5&text_color=888888" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=almepavez&bg_color=00000000&color=86A8E7&line=7F7FD5&point=91EAE4&area=true&hide_border=true" width="95%"/>
+<img src="https://streak-stats.demolab.com?user=almepavez&hide_border=true&background=00000000&ring=7F7FD5&fire=86A8E7&currStreakNum=86A8E7&currStreakLabel=7F7FD5&sideNums=888888&sideLabels=888888&dates=888888" width="80%"/>
 
 </div>
 
@@ -74,6 +71,6 @@ Mi día a día mezcla datos, cloud, redes, sistemas web y automatización — y 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-86A8E7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almendra-pavez-briones-375026251)
 [![Email](https://img.shields.io/badge/Email-7F7FD5?style=flat-square&logo=gmail&logoColor=white)](mailto:alme.pavez28@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=90&section=footer" width="100%"/>
+<img src="./footer.svg" width="100%"/>
 
 </div>
